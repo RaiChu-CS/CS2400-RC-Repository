@@ -1,6 +1,6 @@
 CS2400 Repository
 
-Name: Raileigh Riel Chua
+Name: Raileigh R. Chua
 
 GitHub Repository Link:
 https://github.com/RaiChu-CS/CS2400-RC-Repository
