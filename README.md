@@ -8,7 +8,7 @@ https://github.com/RaiChu-CS/CS2400-RC-Repository
 https://github.com/RaiChu-CS/CS2400-RC-Repository.git
 
 Video Link:
-https://youtu.be/3Z1oYrT5NIw
+xxx
 
 Recorder Application/Version:
 Gyazo
