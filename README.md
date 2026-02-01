@@ -9,4 +9,6 @@ https://github.com/RaiChu-CS/CS2400-RC-Repository.git
 
 Video Link:
 
-Recorder Version/Application:
+Recorder Application/Version:
+Gyazo
+Version 5.9.0 
